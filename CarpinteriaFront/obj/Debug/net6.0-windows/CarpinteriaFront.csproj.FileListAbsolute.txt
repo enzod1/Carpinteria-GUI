@@ -1,0 +1,60 @@
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.Presentacion.FormPresupuesto.resources
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.Presentacion.FormPrincipal.resources
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.Presentacion.FrmConsultarPresupuestos.resources
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.Presentacion.FrmDetallePresupuesto.resources
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.AssemblyInfo.cs
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.exe
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.deps.json
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.runtimeconfig.json
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.dll
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.pdb
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaBack.dll
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaBack.pdb
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.csproj.CopyComplete
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.dll
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\obj\Debug\net6.0-windows\refint\CarpinteriaFront.dll
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.pdb
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.genruntimeconfig.cache
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\obj\Debug\net6.0-windows\ref\CarpinteriaFront.dll
+C:\Users\alumno\Desktop\Carpinteria Bazan\CarpinteriaFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.exe
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.deps.json
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.runtimeconfig.json
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.pdb
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaBack.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaBack.pdb
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.csproj.AssemblyReference.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.Presentacion.FormPresupuesto.resources
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.Presentacion.FormPrincipal.resources
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.Presentacion.FrmConsultarPresupuestos.resources
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.Presentacion.FrmDetallePresupuesto.resources
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.csproj.GenerateResource.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.GeneratedMSBuildEditorConfig.editorconfig
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.AssemblyInfoInputs.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.AssemblyInfo.cs
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.csproj.CoreCompileInputs.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.csproj.CopyComplete
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\obj\Debug\net6.0-windows\refint\CarpinteriaFront.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.pdb
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.genruntimeconfig.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaFront\obj\Debug\net6.0-windows\ref\CarpinteriaFront.dll

@@ -1,0 +1,28 @@
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaBack\bin\Debug\net6.0\CarpinteriaBack.deps.json
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaBack\bin\Debug\net6.0\CarpinteriaBack.dll
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaBack\bin\Debug\net6.0\CarpinteriaBack.pdb
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.dll
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaBack\obj\Debug\net6.0\refint\CarpinteriaBack.dll
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.pdb
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaBack\obj\Debug\net6.0\ref\CarpinteriaBack.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaBack\bin\Debug\net6.0\CarpinteriaBack.deps.json
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaBack\bin\Debug\net6.0\CarpinteriaBack.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaBack\bin\Debug\net6.0\CarpinteriaBack.pdb
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.csproj.AssemblyReference.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.Properties.Resources.resources
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.csproj.GenerateResource.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.AssemblyInfoInputs.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.AssemblyInfo.cs
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.csproj.CoreCompileInputs.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaBack\obj\Debug\net6.0\refint\CarpinteriaBack.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.pdb
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaBack\obj\Debug\net6.0\ref\CarpinteriaBack.dll

@@ -1,0 +1,80 @@
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\CarpinteriaWebApi.exe
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\CarpinteriaWebApi.deps.json
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\CarpinteriaWebApi.runtimeconfig.json
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\CarpinteriaWebApi.dll
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\CarpinteriaWebApi.pdb
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\CarpinteriaBack.dll
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\bin\Debug\net6.0\CarpinteriaBack.pdb
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.CarpinteriaWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CarpinteriaWebApi.props
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CarpinteriaWebApi.props
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CarpinteriaWebApi.props
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\scopedcss\bundle\CarpinteriaWebApi.styles.css
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.csproj.CopyComplete
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.dll
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\refint\CarpinteriaWebApi.dll
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.pdb
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\Carpinteria Bazan\CarpinteriaWebApi\obj\Debug\net6.0\ref\CarpinteriaWebApi.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\appsettings.json
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\CarpinteriaWebApi.exe
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\CarpinteriaWebApi.deps.json
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\CarpinteriaWebApi.runtimeconfig.json
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\CarpinteriaWebApi.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\CarpinteriaWebApi.pdb
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\CarpinteriaBack.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\bin\Debug\net6.0\CarpinteriaBack.pdb
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.csproj.AssemblyReference.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.AssemblyInfoInputs.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.AssemblyInfo.cs
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.csproj.CoreCompileInputs.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.CarpinteriaWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CarpinteriaWebApi.props
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CarpinteriaWebApi.props
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CarpinteriaWebApi.props
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\scopedcss\bundle\CarpinteriaWebApi.styles.css
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.csproj.CopyComplete
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\refint\CarpinteriaWebApi.dll
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.pdb
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\CarpinteriaWebApi.genruntimeconfig.cache
+D:\£\Facultad\UTN\TUP- UTN\2°C\Programacion ll\Proyectos\Carpinteria-CRUD-API\CarpinteriaWebApi\obj\Debug\net6.0\ref\CarpinteriaWebApi.dll
